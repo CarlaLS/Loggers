@@ -1,0 +1,15 @@
+[2022-07-07T14:25:28.800] [WARN] default - Ruta GET / no implementada
+[2022-07-07T14:35:10.525] [WARN] default - Ruta GET / no implementada
+[2022-07-07T14:35:47.453] [WARN] default - Ruta GET / no implementada
+[2022-07-07T14:36:30.844] [WARN] default - Ruta GET / no implementada
+[2022-07-07T15:06:36.790] [ERROR] default - Parametro incorrecto
+[2022-07-07T15:08:01.485] [ERROR] default - Parametro incorrecto
+[2022-07-07T15:08:03.726] [ERROR] default - Parametro incorrecto
+[2022-07-07T15:08:34.047] [ERROR] default - Parametro incorrecto
+[2022-07-07T15:09:11.137] [ERROR] default - Parametro incorrecto
+[2022-07-07T15:13:31.241] [WARN] default - Ruta GET /info no implementada
+[2022-07-07T15:14:01.174] [WARN] default - Ruta GET /info no implementada
+[2022-07-07T15:16:55.536] [WARN] default - Ruta GET  a /info no implementada
+[2022-07-07T15:16:55.871] [WARN] default - Ruta GET  a /css/estilos.css no implementada
+[2022-07-07T15:17:39.251] [WARN] default - Ruta GET  a /info no implementada
+[2022-07-07T15:17:39.302] [WARN] default - Ruta GET  a /css/estilos.css no implementada
